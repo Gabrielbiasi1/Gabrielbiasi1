@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript and SQL
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me: Gabriel.biasi03@gmail.com
-- 😄 Pronouns: he/him
+
 
 <!---
 Gabrielbiasi1/Gabrielbiasi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
